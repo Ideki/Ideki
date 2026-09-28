@@ -18,4 +18,4 @@ researcher (NAIST, Japan), named inventor on 2 US patents. Founder of
 - **UIPlayNice**: a Starfield mod that lets multiple UI mods display together in the game menus.
 
 ## Connect
-[LinkedIn](YOUR-LINKEDIN-URL) · [Groundbreakers Games](https://groundbreakersgames.com)
+[LinkedIn](https://www.linkedin.com/in/mickaelpic/) · [Groundbreakers Games](https://groundbreakersgames.com)
