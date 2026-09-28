@@ -7,7 +7,7 @@ from client consulting placements to products used worldwide. Former AI / comput
 researcher (NAIST, Japan), named inventor on 2 US patents. Founder of
 [Groundbreakers Games](https://groundbreakersgames.com).
 
-📍 High River, Alberta, Canada · 🇫🇷 French · 🇬🇧 English · 🇯🇵 Japanese
+📍 High River, Alberta, Canada · French · English · Japanese
 
 ## Open-source contributions
 - **PurrNet** (Unity networking library): added `PeerInfo`, giving developers safe read-only
