@@ -15,7 +15,11 @@ researcher (NAIST, Japan), named inventor on 2 US patents. Founder of
   object. Shipped in v1.16.0. [PR #176](https://github.com/PurrNet/PurrNet/pull/176)
 
 ## Projects
-- **UIPlayNice**: a Starfield mod that lets multiple UI mods display together in the game menus.
+- **[EVILib](https://github.com/Ideki/EVILib)**: C++ library for controlling Sony EVI-D30/D70/D100
+  pan-tilt-zoom cameras over their serial (VISCA) interface. Built during my computer vision
+  research in Japan, where I needed to drive these cameras; originally published on SourceForge.
+- **[UIPlayNice](https://github.com/Ideki/UIPlayNiceExample)**: a Starfield mod that lets multiple
+  UI mods display together in the game menus.
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/mickaelpic/) · [Groundbreakers Games](https://groundbreakersgames.com)
